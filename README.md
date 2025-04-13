@@ -1,6 +1,6 @@
 ## 项目介绍
 本仓库是我在学习Go语言的过程中，记录的学习笔记。
-项目地址: https://github.com/hhdms/goNotes
+项目地址: https://github.com/hhdms/goNotes。
 Go语言入门学习笔记，从零开始学习Go语言，做一名 Go 开发工程师。
 
 ## 目录结构
